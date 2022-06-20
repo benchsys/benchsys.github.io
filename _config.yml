@@ -1,1 +1,6 @@
 theme: jekyll-theme-cayman
+name: The BenchSys Workshop
+title: The BenchSys Workshop
+description: The International ACM SIGEnergy Workshop on Advancements in Building Energy Benchmarking Systems
+github:
+  is_project_page: false
