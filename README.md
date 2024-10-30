@@ -6,3 +6,4 @@ The ACM SIGEnergy international workshop on “Advances in Building Energy Bench
 ### History
  - [BenchSys 2022](https://benchsys.github.io/2022/) (co-located with [ACM SenSys/BuildSys 2022](https://buildsys.acm.org/2022/))
  - [BenchSys 2023](https://benchsys.github.io/2023/) (co-located with [ACM SenSys/BuildSys 2023](https://buildsys.acm.org/2023/))
+ - [BenchSys 2024](https://benchsys.github.io/2024/) (co-located with [ACM SenSys/BuildSys 2024](https://buildsys.acm.org/2024/))
